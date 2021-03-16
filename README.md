@@ -1,4 +1,4 @@
-## Welcome to my github 🐱
+## Welcome to my Github 🐱
 
 <a href="https://www.linkedin.com/in/ashlyn-h-55215291/">
   <img align="left" alt="Ashlyn's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
