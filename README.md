@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/ashlyn-h-55215291/">
   <img align="left" alt="Ashlyn's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/?_ga=2.172714149.700599630.1615919402-1505479476.1615919402">
+<a href="https://open.spotify.com/user/0pu6sy8b3wbu5i89psxxqdpqa">
   <img align="left" alt="Ashlyn's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
