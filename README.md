@@ -10,7 +10,7 @@
 
 <br />
 
-My name is [Ashlyn Hicks]("https://ashlynscreations.com"), I'm passionate about computers and I love building and creating stuff with code! I just recently completed
+My name is [Ashlyn Hicks](https://ashlynscreations.com), I'm passionate about computers and I love building and creating stuff with code! I just recently completed
 a full-stack web development bootcamp with UCF to further my technical knowledge. 🍎
 
 
