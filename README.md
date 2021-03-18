@@ -17,6 +17,7 @@ a full-stack web development bootcamp with UCF to further my technical knowledge
 I’m currently working on things with React and revamping my [website](https://ashlynscreations.com). I'm also always looking for opensource projects to collaborate on and gain some new perspectives. 🔭
 
 - 📝 [Resume](https://docs.google.com/document/d/1FlxDPtqW6SUYuvEE_Ktd1lvnXL1vC0Fbb5dPGtAcOM0/edit?usp=sharing)
+- 📬 [Contact](mailto:ash.giselle96@gmail.com)
 
 **Languages and Tools:**  
 
